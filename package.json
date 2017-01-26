@@ -1,0 +1,14 @@
+{
+  "name": "mason-example",
+  "version": "1.0.0",
+  "description": "Mason example configuration (with scaffolding)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mason.plugin.scaffold": "0.0.4"
+  }
+}
