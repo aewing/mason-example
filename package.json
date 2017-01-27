@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mason.plugin.scaffold": "0.0.4"
+    "mason.cli": "0.1.2",
+    "mason.plugin.scaffold": "0.1.0"
   }
 }
